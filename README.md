@@ -1,6 +1,3 @@
-this is demo
-vafjvaf
-agucva
-jvak cnj,
+this is a demo 
 
-wth
+just started using github
